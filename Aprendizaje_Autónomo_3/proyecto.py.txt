@@ -1,0 +1,31 @@
+# Generador de contraseña segura
+
+# Importa el módulo random para generar números o valores aleatorios
+import random
+
+minusculas = "abcdefghijklmnñopqrstuvwxyz"  
+mayusculas = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"  
+numeros = "0123456789"                     
+simbolos = "@#$&/?¿!}{<>\""                
+
+# Combina todos los tipos de caracteres 
+caracteres_contraseña = minusculas + mayusculas + numeros + simbolos
+
+# Solicita al usuario la longitud deseada para la contraseña
+ancho_contraseña = int(input("Longitud de la contraseña: "))
+
+# Bucle infinito para generar contraseñas hasta que el usuario decida salir
+while True:
+    # Genera una contraseña aleatoria tomando "ancho_contraseña", utilizando todos los caracteres
+    contraseña = "".join(random.sample(caracteres_contraseña, ancho_contraseña))
+    
+    # Muestra la contraseña generada al usuario
+    print("Tu contraseña segura es:", contraseña)
+    
+    # Pregunta si el usuario desea generar otra contraseña
+    opcion = input("¿Te gustaría generar otra contraseña? (s/n): ").lower()
+    
+    # Si el usuario no responde con 's', el programa termina
+    if opcion != "s":
+        print("¡Gracias por usar el generador de contraseñas!")
+        break  # Sale del bucle
