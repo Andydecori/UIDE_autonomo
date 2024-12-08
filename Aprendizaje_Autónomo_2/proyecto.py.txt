@@ -1,0 +1,12 @@
+# Generador de contraseña segura
+
+minusculas = "abcdefghijklmnñopqrstuvwxyz"
+mayusculas = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
+numeros = "0123456789"
+simbolos = "@#$&/?¿!}{<>"
+
+caracteres_contraseña = minusculas + mayusculas + numeros + simbolos
+ancho_contraseña = int(input("Longitud de la contraseña: "))
+
+contraseña = caracteres_contraseña
+print("La contaseña generada es:", contraseña)
