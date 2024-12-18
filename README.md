@@ -23,7 +23,7 @@ Los temas que voy a tratar son:
 ### 1. Software
 
 <p>
-Yo escogí el software de ** Generador de Contraseña Segura **. Lo realice en el editor de código ** Visual Studio Code ** con el lenguaje de programación ** Python. **
+Yo escogí el software de: Generador de Contraseña Segura. Lo realice en el editor de código Visual Studio Code con el lenguaje de programación Python.
 </p>
 
 ### 2. Objetivo
@@ -69,19 +69,19 @@ La mejor solución es generar una contraseña aleatoria de caracteres utilizando
 </p>
 
 ### 4. Diagrama Caso de Uso
-[Diagrama Caso de Uso](http://drive.google.com/file/d/1_jFToZeKfE5DQ9bLyjpWeIyzqd2bDk2L/view?usp=sharing "Diagrama Caso de Uso")
-Elaborado en: [Aprendizaje Autónomo 1](https://github.com/Andydecori/UIDE_autonomo/tree/master/Aprendizaje_Aut%C3%B3nomo_1 "Aprendizaje Autónomo 1")
+Visualice el [Diagrama Caso de Uso](http://drive.google.com/file/d/1_jFToZeKfE5DQ9bLyjpWeIyzqd2bDk2L/view?usp=sharing "Diagrama Caso de Uso")
+elaborado en: [Aprendizaje Autónomo 1](https://github.com/Andydecori/UIDE_autonomo/tree/master/Aprendizaje_Aut%C3%B3nomo_1 "Aprendizaje Autónomo 1")
 
 ### 5. Diagrama Arquitectura de Software
-[Diagrama Arquitectura de Software](https://drive.google.com/file/d/16tgLvvbyPrCIG42yDYj65vOm8QJCTIRU/view?usp=sharing "Diagrama Arquitectura de Software")
-Elaborado en: [Aprendizaje Autónomo 1](https://github.com/Andydecori/UIDE_autonomo/tree/master/Aprendizaje_Aut%C3%B3nomo_1 "Aprendizaje Autónomo 1")
+Visualice el [Diagrama Arquitectura de Software](https://drive.google.com/file/d/16tgLvvbyPrCIG42yDYj65vOm8QJCTIRU/view?usp=sharing "Diagrama Arquitectura de Software")
+elaborado en: [Aprendizaje Autónomo 1](https://github.com/Andydecori/UIDE_autonomo/tree/master/Aprendizaje_Aut%C3%B3nomo_1 "Aprendizaje Autónomo 1")
 
 ### 6. Diagrama de Flujo
-[Diagrama de Flujo](https://drive.google.com/file/d/1yAmPoPGwBUIoD90gTw3gqLRSmkESQmrS/view?usp=sharing "Diagrama de Flujo")
-Elaborado en: [Aprendizaje Autónomo 2](https://github.com/Andydecori/UIDE_autonomo/tree/master/Aprendizaje_Aut%C3%B3nomo_2 "Aprendizaje Autónomo 2")
+Visualice el [Diagrama de Flujo](https://drive.google.com/file/d/1yAmPoPGwBUIoD90gTw3gqLRSmkESQmrS/view?usp=sharing "Diagrama de Flujo")
+elaborado en: [Aprendizaje Autónomo 2](https://github.com/Andydecori/UIDE_autonomo/tree/master/Aprendizaje_Aut%C3%B3nomo_2 "Aprendizaje Autónomo 2")
 
 ### 7. Presentación de Canva 
-[Generador de Contraseña Segura](https://www.canva.com/design/DAGZeWQwoPI/B739HiQv5yclvWPw612Miw/view?utm_content=DAGZeWQwoPI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8133adfd3f "Generador de Contraseña Segura")
+Visualice el [Generador de Contraseña Segura](https://www.canva.com/design/DAGZeWQwoPI/B739HiQv5yclvWPw612Miw/view?utm_content=DAGZeWQwoPI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8133adfd3f "Generador de Contraseña Segura")
 
 ### 8. Código
 
