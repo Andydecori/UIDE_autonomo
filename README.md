@@ -48,12 +48,12 @@ Para mejorar la seguridad de la contraseña necesitamos caracteres aleatorios co
 </p>
 
 - **Identificar Soluciones Alternas**
-<p>
- - No reutilizar contraseñas.
- - Utilizar una contraseña única para cada sitio web.
- - No utilizar información personal en contraseñas.
- - Generar una contraseña aleatoria de caracteres utilizando Python.
-</p>
+  
+  - No reutilizar contraseñas.
+  - Utilizar una contraseña única para cada sitio web.   
+  - No utilizar información personal en contraseñas.
+  - Generar una contraseña aleatoria de caracteres utilizando Python.
+   
 
 - **Seleccionar la Mejor Solución**
 <p>
