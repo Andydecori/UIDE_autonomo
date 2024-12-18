@@ -18,6 +18,7 @@ Los temas que voy a tratar son:
 - Diagrama de Flujo
 - Presentación de Canva
 - Código
+- Conclusión
 
 #### Primeramente voy a presentar mi [Cronograma de Actividades](https://drive.google.com/file/d/1RMyY_GSnsPV7F9ijW-oh_ADSpa1KVcwh/view?usp=sharing "Cronograma de Actividades")
 
@@ -130,3 +131,11 @@ Ahora ejecutaré el código para confirmar su correcto funcionamiento.
 </p>
 
 Vizualizar la [Validación del Código](https://youtu.be/LnjgIUZwKRI "Validación del Código")
+
+### 9. Conclusión
+
+<p>
+Me siento muy satisfecho con el generador de contraseñas que he creado. Es un programa práctico y fácil de usar, que genera contraseñas aleatorias combinando caracteres mayúsculas, minúsculas, números y símbolos, lo que las hace fuertes y seguras para proteger información personal.
+
+Además, el hecho de que permita al usuario elegir la longitud y generar tantas contraseñas como necesite de forma rápida me parece muy útil. También tomando recomendaciones de mis compañeros en el Foro pude colocar un mensaje de Bienvenida y un mensaje de despedida para mejorar la experiencia del usuario.
+</p>
