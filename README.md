@@ -1,6 +1,6 @@
 [![Uide](https://th.bing.com/th/id/OIP.OdYsD-j7zmfUMkImH6fbYQAAAA?rs=1&pid=ImgDetMain "Uide")](https://th.bing.com/th/id/OIP.OdYsD-j7zmfUMkImH6fbYQAAAA?rs=1&pid=ImgDetMain "Uide")
 
-# Evalución en Contacto con el docente
+# Evaluación en Contacto con el docente
 
 ## El impacto de las nuevas tecnologías en la sociedad: visualización del futuro.
 
