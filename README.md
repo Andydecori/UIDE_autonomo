@@ -39,7 +39,9 @@ El objetivo de generar una contraseña segura es crear combinaciones únicas, al
 <p>
 El problema principal es la mala gestión de contraseñas. Según un estudio de Verizon, el 70 % de empleados reutilizan sus contraseñas, lo que facilita ataques informáticos.
 Datos clave incluyen:
+  
 -El 81 % de los incidentes relacionados con piratería se deben a contraseñas robadas o inseguras.
+
 -80 % de los robos de datos en 2019 fueron causadas por vulnerabilidades de contraseñas, generando grandes pérdidas financieras.
 </p>
 
