@@ -80,7 +80,7 @@ Visualice el [Diagrama de Flujo](https://drive.google.com/file/d/1yAmPoPGwBUIoD9
 elaborado en: [Aprendizaje Autónomo 2](https://github.com/Andydecori/UIDE_autonomo/tree/master/Aprendizaje_Aut%C3%B3nomo_2 "Aprendizaje Autónomo 2")
 
 ### 7. Presentación de Canva 
-Visualice el [Generador de Contraseña Segura](https://www.canva.com/design/DAGZeWQwoPI/B739HiQv5yclvWPw612Miw/view?utm_content=DAGZeWQwoPI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8133adfd3f "Generador de Contraseña Segura")
+Visualice la presentación del [Generador de Contraseña Segura](https://www.canva.com/design/DAGZeWQwoPI/B739HiQv5yclvWPw612Miw/view?utm_content=DAGZeWQwoPI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8133adfd3f "Generador de Contraseña Segura")
 
 ### 8. Código
 
