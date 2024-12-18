@@ -61,12 +61,11 @@ La mejor solución es generar una contraseña aleatoria de caracteres utilizando
 </p>
 
 - **Listar los Pasos de la Solución Seleccionada**
-<p>
+
  1. Definir tipos de caracteres necesarios para construir la contraseña
  2. Incluir al menos un carácter de cada tipo
  3. Completar la longitud con caracteres aleatorios
  4. Evaluar la seguridad de la contraseña
-</p>
 
 ### 4. Diagrama Caso de Uso
 Visualice el [Diagrama Caso de Uso](http://drive.google.com/file/d/1_jFToZeKfE5DQ9bLyjpWeIyzqd2bDk2L/view?usp=sharing "Diagrama Caso de Uso")
