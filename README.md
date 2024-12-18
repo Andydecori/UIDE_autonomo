@@ -2,7 +2,7 @@
 
 # Evalución en Contacto con el docente
 
-##El impacto de las nuevas tecnologías en la sociedad: visualización del futuro.
+## El impacto de las nuevas tecnologías en la sociedad: visualización del futuro.
 
 ### Andrés Guerrero
 
@@ -23,7 +23,7 @@ Los temas que voy a tratar son:
 ### 1. Software
 
 <p>
-Yo escogí el software de **Generador de Contraseña Segura**. Lo realice en el editor de código **Visual Studio Code** con el lenguaje de programación **Python.**
+Yo escogí el software de ** Generador de Contraseña Segura **. Lo realice en el editor de código ** Visual Studio Code ** con el lenguaje de programación ** Python. **
 </p>
 
 ### 2. Objetivo
