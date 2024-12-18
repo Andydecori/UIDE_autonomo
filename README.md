@@ -127,4 +127,4 @@ while True:
 Ahora ejecutaré el código para confirmar su correcto funcionamiento.
 </p>
 
-[Validación del Código](https://youtu.be/LnjgIUZwKRI "Validación del Código")
+Vizualizar la [Validación del Código](https://youtu.be/LnjgIUZwKRI "Validación del Código")
