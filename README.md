@@ -19,7 +19,7 @@ Los temas que voy a tratar son:
 - Presentación de Canva
 - Código
 
-##### Primeramente voy a presentar mi [Cronograma de Actividades](https://drive.google.com/file/d/1RMyY_GSnsPV7F9ijW-oh_ADSpa1KVcwh/view?usp=sharing "Cronograma de Actividades")
+#### Primeramente voy a presentar mi [Cronograma de Actividades](https://drive.google.com/file/d/1RMyY_GSnsPV7F9ijW-oh_ADSpa1KVcwh/view?usp=sharing "Cronograma de Actividades")
 
 ### 1. Software
 
