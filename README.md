@@ -135,7 +135,9 @@ Vizualizar la [Validación del Código](https://youtu.be/LnjgIUZwKRI "Validació
 ### 9. Conclusión
 
 <p>
-Me siento muy satisfecho con el generador de contraseñas que he creado. Es un programa práctico y fácil de usar, que genera contraseñas aleatorias combinando caracteres mayúsculas, minúsculas, números y símbolos, lo que las hace fuertes y seguras para proteger información personal.
+Me siento muy satisfecho con el generador de contraseñas que he creado. Es un programa práctico y fácil de usar, que genera contraseñas aleatorias combinando caracteres mayúsculas, minúsculas, números y símbolos, lo que las hace fuertes y seguras para proteger información personal. 
 
 Además, el hecho de que permita al usuario elegir la longitud y generar tantas contraseñas como necesite de forma rápida me parece muy útil. También tomando recomendaciones de mis compañeros en el Foro pude colocar un mensaje de Bienvenida y un mensaje de despedida para mejorar la experiencia del usuario.
+
+Quiero mencionar que en mi proceso de aprendizaje tambien pude guiarme mediante la página web [w3schools.com](https://www.w3schools.com/python/python_conditions.asp "w3schools.com")
 </p>
